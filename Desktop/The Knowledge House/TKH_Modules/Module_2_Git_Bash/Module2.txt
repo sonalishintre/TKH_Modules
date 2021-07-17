@@ -1,0 +1,37 @@
+1. What is Git and how is it different than Github?
+Git is a version control system that manage and keep track of source code. 
+Git is a distributed version control system for tracking changes in source code during software development. 
+It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. 
+Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+GitHub is a cloud-based hosting service that manage Git repositories. 
+GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code 
+management (SCM) functionality of Git as well as adding its own features.
+
+Both Git and GitHub give programmers valuable version-control functionality so that they can build ongoing coding projects 
+without being afraid of messing everything up.GitHub just takes things a little bit further than Git, offering more functionality and resources, 
+as well as a place online to store and collaborate on projects. 
+Difference between Git and Github:
+1. Git is a command-line tool and GitHub is a graphical user interface
+2. Git is installed locally on the system and GitHub is hosted on the web
+3. Git is focused on version control and code sharing and GitHub is focused on centralized source code hosting.
+4. Git is a version control system to manage source code history and GitHub is a hosting service for Git repositories.
+
+
+2. Why use the terminal
+Terminals, also known as command lines or consoles, allow to accomplish and automate tasks on a computer without the use of a graphical user interface.
+Using a terminal allows to send simple text commands to our computer to do things like navigate through a directory or copy a file, and form the basis for 
+many more complex automations and programming skills.
+In Mac Terminal is a program that comes preinstalled. Windows comes with ‘cmd’  and need to download the tool PowerShell in order to run any of the commands.
+
+3. Explain 3 benefits of version control in your own words
+There are many benefits of using a version control system:
+1. Collaboration: With a version control everyone on the team is able to work on any file at any time. and later version control allows  to merge all the files  into a common version. 
+2. Storing Versions : Saving a version of the project after making changes is an essential. But without a version control, this becomes tedious and confusing very quickly.
+3. Restoring Previous Versions: Being able to restore older versions of a file or even the whole project effectively means one thing, If the changes you've made lately prove
+ to be garbage,  can simply undo them in a few clicks. Knowing this should make a lot more relaxed when working on important bits of a project.
+4. Understanding What Happened: Every time we save a new version of the project, version control requires to provide a short description of what was changed.
+we can see what exactly was changed in the file's content. This helps to understand how  project evolved between versions.
+5. Backup: A side-effect of using a distributed version control like Git is that it can act as a backup,
+every team member has a full-blown version of the project. 
+
